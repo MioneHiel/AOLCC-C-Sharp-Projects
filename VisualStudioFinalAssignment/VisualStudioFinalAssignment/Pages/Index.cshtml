@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Visual Studio Final Assignment</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+
+<body>
+
+    <div class="row">
+        <div class="column">
+            <p>My favorite Music Video</p>
+            <video width="400" height="400" controls>
+                <source src="Keith Martin - Because Of You (Lyric).mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="column">
+            <p>
+                <button onclick="myMove()">Click Me</button>
+            </p>
+
+            <div id="myContainer">
+                <div id="myAnimation"></div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
