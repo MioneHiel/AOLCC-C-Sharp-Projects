@@ -1,0 +1,13 @@
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.exe
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.deps.json
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.runtimeconfig.json
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.runtimeconfig.dev.json
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.dll
+C:\Users\Aga\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.pdb
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.csproj.AssemblyReference.cache
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.AssemblyInfoInputs.cache
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.AssemblyInfo.cs
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.csproj.CoreCompileInputs.cache
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.dll
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.pdb
+C:\Users\Aga\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.genruntimeconfig.cache
