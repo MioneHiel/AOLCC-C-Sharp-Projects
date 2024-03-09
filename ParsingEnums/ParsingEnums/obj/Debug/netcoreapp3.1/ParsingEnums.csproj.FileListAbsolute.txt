@@ -1,0 +1,13 @@
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.exe
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.deps.json
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.json
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.dev.json
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.pdb
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfo.cs
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.pdb
+C:\Users\Aga\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.genruntimeconfig.cache
