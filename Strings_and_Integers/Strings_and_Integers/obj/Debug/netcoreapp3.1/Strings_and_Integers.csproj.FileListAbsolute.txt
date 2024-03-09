@@ -1,0 +1,13 @@
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.exe
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.deps.json
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.runtimeconfig.json
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.runtimeconfig.dev.json
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.dll
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\bin\Debug\netcoreapp3.1\Strings_and_Integers.pdb
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.csproj.AssemblyReference.cache
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.AssemblyInfoInputs.cache
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.AssemblyInfo.cs
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.csproj.CoreCompileInputs.cache
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.dll
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.pdb
+C:\Users\Aga\source\repos\Strings_and_Integers\Strings_and_Integers\obj\Debug\netcoreapp3.1\Strings_and_Integers.genruntimeconfig.cache
