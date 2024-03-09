@@ -1,0 +1,13 @@
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\Aga\source\repos\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache
